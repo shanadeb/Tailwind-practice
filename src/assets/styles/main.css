@@ -1,0 +1,8 @@
+body{
+    background:linear-gradient(#E60DCF,#0D2BE6);
+    background-repeat: no-repeat;
+}
+@tailwind preflight;
+
+
+@tailwind utilities;
